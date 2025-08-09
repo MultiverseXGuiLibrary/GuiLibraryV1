@@ -2,7 +2,7 @@ local Decimals = 4
 local Clock = os.clock()
 local ValueText = "Value Is Now :"
 
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/MultiverseXGuiLibrary/Gui-LibraryV1/refs/heads/main/Tokyo%20Lib%20Source.lua?token=GHSAT0AAAAAADI5CAKYLI2DIWHCWDLKNYC62EXDRYQ"))({
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/MultiverseXGuiLibrary/GuiLibraryV1/refs/heads/main/Tokyo%20Lib%20Source.lua?token=GHSAT0AAAAAADI5CAKYLI2DIWHCWDLKNYC62EXDRYQ"))({
     cheatname = "Title Here", -- watermark text
     gamename = "Title Here", -- watermark text
 })
